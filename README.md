@@ -43,6 +43,6 @@ This experience directly prepares me for IT support, help desk, and system admin
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 See the `/screenshots` folder for visual documentation of the environment setup, AD configuration, and GPO examples.
